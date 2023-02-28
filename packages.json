@@ -1,0 +1,22 @@
+[
+  {
+    "package": "loadeR",
+    "url": "https://github.com/PROMiDAT/loadeR"
+  },
+  {
+    "package": "discoveR",
+    "url": "https://github.com/PROMiDAT/discoveR"
+  },
+  {
+    "package": "predictoR",
+    "url": "https://github.com/PROMiDAT/predictoR"
+  },
+  {
+    "package": "regressoR",
+    "url": "https://github.com/PROMiDAT/regressoR"
+  },
+  {
+    "package": "RSDA",
+    "url": "https://github.com/PROMiDAT/RSDA"
+  }
+]
