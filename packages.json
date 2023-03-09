@@ -18,5 +18,13 @@
   {
     "package": "RSDA",
     "url": "https://github.com/PROMiDAT/RSDA"
+  },
+  {
+    "package": "forecasteR",
+    "url": "https://github.com/PROMiDAT/forecasteR"
+  },
+  {
+    "package": "traineR",
+    "url": "https://github.com/PROMiDAT/traineR"
   }
 ]
